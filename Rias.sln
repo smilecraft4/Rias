@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rias", "Rias\Rias.csproj", "{F3BA4764-3842-4BB4-B86E-F90EBDB5FBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3BA4764-3842-4BB4-B86E-F90EBDB5FBBA}.Debug|x64.ActiveCfg = Debug|x64
+		{F3BA4764-3842-4BB4-B86E-F90EBDB5FBBA}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9288E7BA-C44B-4038-894F-03E83799C209}
+	EndGlobalSection
+EndGlobal
